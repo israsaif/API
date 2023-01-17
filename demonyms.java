@@ -1,6 +1,8 @@
 package APINEXTproject;
 
-public class nativeName {
+public class demonyms {
+
+	eng Eng;
 
 	public eng getEng() {
 		return Eng;
@@ -9,6 +11,4 @@ public class nativeName {
 	public void setEng(eng eng) {
 		Eng = eng;
 	}
-
-	eng Eng;
 }
